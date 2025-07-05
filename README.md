@@ -17,13 +17,6 @@ A simple and intuitive Contact Management System built using Python's Tkinter li
 
 ---
 
-## 🖼️ GUI Preview
-
-*(You can upload a screenshot and replace the link below)*
-
-![App Screenshot](screenshot.png)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -39,5 +32,5 @@ A simple and intuitive Contact Management System built using Python's Tkinter li
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/contact-manager-gui.git
-   cd contact-manager-gui
+   git clone https://github.com/PRODIGY_SD_03/S.git
+   cd PRODIGY_SD_03
